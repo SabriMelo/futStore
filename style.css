@@ -14,7 +14,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Header  */
+/* Header */
 header {
     font-family: "Bebas Neue", sans-serif;
     position: fixed;
@@ -74,4 +74,17 @@ header form button i{
 .navbar-brand {
     display: flex;
     align-items: center;
+}
+
+/* body */
+
+
+
+
+/* footer */
+footer {
+    background-color: #08281d;
+    font-family: "Bebas Neue", sans-serif;
+    position: relative;
+    color: #e3d4c8;
 }
