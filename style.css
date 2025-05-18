@@ -88,3 +88,10 @@ footer {
     position: relative;
     color: #e3d4c8;
 }
+@media (min-width: 1200px) {
+    footer .container {
+        max-width: 100vw;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+}
